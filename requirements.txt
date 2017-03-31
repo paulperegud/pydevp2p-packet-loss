@@ -1,0 +1,5 @@
+gevent==1.1.0
+click
+rlp>=0.4.4
+devp2p>=0.8.0
+ethereum>=1.6.0
